@@ -5,6 +5,9 @@ The purpose of this project was to extract and take in new data, perform the app
 ## Deliverables
 
 - Deliverable 1: Write an ETL Function to Read Three Data Files
+
+https://github.com/yolandahjohnson/Movies-ETL/blob/main/ETL_clean_kaggle_data.ipynb 
+
 - Deliverable 2: Extract and Transform the Wikipedia Data
 - Deliverable 3: Extract and Transform the Kaggle data
 - Deliverable 4: Create the Movie Database
